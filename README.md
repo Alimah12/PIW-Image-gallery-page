@@ -129,3 +129,4 @@ By following these steps, you can easily access and manage information related t
 ## Conclusion
 In conclusion, this documentation serves as a comprehensive guide to the creation and upkeep of the Pwani Innovation Week website. It delves into various aspects, from source code access to the technologies employed, with a focus on Content Management System (CMS) integration, real-time database management, runtime environment, performance, speed, and security.
 Lastly, the documentation provides clear instructions on accessing various types of content, including information about speakers, sponsors, venue details, tickets, and the event schedule. 
+"# PIW-Image-gallery-page" 
